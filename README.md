@@ -76,7 +76,7 @@ CineVerse/
 
 ## 🚀 Live Demo
 
-devansh1318.github.io/Cine-Verse/
+https://devansh1318.github.io/Cine-Verse/
 
 
 ## 👨‍💻 Author
