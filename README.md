@@ -37,7 +37,7 @@ CineVerse/
 
 ## 🚀 Live Demo
 
-https://yourusername.github.io/CineVerse/
+https://Devansh1318.github.io/CineVerse/
 
 ## 👨‍💻 Author
 
