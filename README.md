@@ -43,4 +43,5 @@ https://yourusername.github.io/CineVerse/
 
 **Devansh Mishra**
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/Devansh1318
+
